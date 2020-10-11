@@ -40,3 +40,8 @@ A rudimentary CLI weather scraper made with bs4, requests and pandas
   
   scrape(url)
 ```
+
+## Requirement(s)
+- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Requests](https://fr.python-requests.org/en/latest/)
+- [Pandas](https://pandas.pydata.org/docs/index.html)
